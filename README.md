@@ -50,3 +50,6 @@ A simple blog application built with **NestJS** that supports user registration,
     npm run start:dev
     ```
 
+## Access the documentation
+
+The API documentation is available at `/api/docs`.
